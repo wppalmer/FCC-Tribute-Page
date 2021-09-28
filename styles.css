@@ -1,0 +1,43 @@
+@import url(https://fonts.google.com/specimen/Roboto);
+.page-header {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 4vw;
+}
+h5 {
+  font-weight: normal;
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  width: 90%;
+}
+#img-caption {
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+}
+#main {
+  background: linear-gradient(white, silver, grey);
+}
+#tribute-info {
+  font-family: "Roboto", sans-serif;
+  font-size: 3vw;
+}
+.list {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 2vw;
+}
+#footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
